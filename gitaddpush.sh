@@ -4,4 +4,5 @@ git add --all
 git status
 git status
 git commit -m "auto commit"
+# git push -u origin master
 git push
